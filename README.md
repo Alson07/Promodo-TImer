@@ -1,6 +1,7 @@
+<h3>Summary:</h3>
 The Pomodoro Technique is a popular time management method that can help you stay focused and avoid burnout. <br>
 It involves working in short bursts, typically 25 minutes long, followed by brief breaks.<br><br>
-Process:<br>
+<b>Process:</b><br>
 Decide on the task you want to complete.<br>
 Set a timer for 25 minutes and work on the task until the timer rings.<br>
 Take a short break (typically 5-10 minutes).<br>
